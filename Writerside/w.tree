@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="w"
+                 name="Writerside/hi"
+                 start-page="what-writeside.md">
+
+    <toc-element topic="what-writeside.md"/>
+    <toc-element topic="why-writeside.md"/>
+</instance-profile>
